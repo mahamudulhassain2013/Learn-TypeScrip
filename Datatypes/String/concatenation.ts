@@ -1,4 +1,5 @@
-let firstName, lastName, fullName;
+
+let firstName:string, lastName:string, fullName:string;
 firstName = "Mahamudul";
  lastName = "Hasan";
 // // fullName = firstName + lastName;
