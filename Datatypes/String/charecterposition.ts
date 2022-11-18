@@ -2,7 +2,7 @@ function findindex(str:string, character:string){
     // let character:String = "s";
 
     
-let i:Number, j:Number, position:Number = -1, count:Number = 0;
+let i, j, position = -1, count = 0;
 
 for( i = 0; i <= str.length; i++)
 
