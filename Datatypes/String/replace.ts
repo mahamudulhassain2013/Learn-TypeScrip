@@ -1,9 +1,12 @@
-//using replace method
 
-// let str = "Hello I am Mahamudul Hasan";
-// let newString = str.replace("a", "A");
-// console.log(newString);
 
+/** using replace method
+
+let str = "Hello I am Mahamudul Hasan";
+let newString = str.replace("a", "A");
+console.log(newString);
+
+*/
 
 
 
