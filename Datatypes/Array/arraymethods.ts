@@ -51,7 +51,7 @@ console.log("from method = " + arrayfrom + "\n");
 
 includesmethod = language.includes("English", 4);
 console.log("includemethod = " + includesmethod + "\n");
-Number
+
 indexOf = arr1.indexOf("fullname");
 console.log("indexOf method = " + indexOf + "\n");
 
