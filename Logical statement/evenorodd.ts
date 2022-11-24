@@ -27,4 +27,4 @@ function checkNumber(num: any){
   
 }
 
-checkNumber(-7);
+checkNumber(7);
