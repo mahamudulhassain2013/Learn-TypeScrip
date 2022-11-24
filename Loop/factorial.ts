@@ -1,13 +1,10 @@
 
-//     let i:any, num = 5, fact = 1; 
-//    for(i = 1; i <= num; i++){
-//     fact = fact * i;
-   
-
-//    }
-
-//    console.log(fact);
-
+/**
+ * @desc  function factorial that input the number and calculate the factorial number.
+ * @param {Number} num               This is the input number
+ * @returns {Number} factorial        Print the factorial number
+ * 
+ */
         
 
    function factorial (num: Number)
