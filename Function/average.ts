@@ -1,9 +1,9 @@
 
 /**
  * @desc Function that input three numbers and calculate the average number.
- * @param num1 Number       this is the first number
- * @param num2 Number       thsi is the second number
- * @param num3 Number       this is the third number
+ * @param num1 Number               this is the first number
+ * @param num2 Number               this is the second number
+ * @param num3 Number               this is the third number
  * @returns average Number          returns  the average value.
  */
 
